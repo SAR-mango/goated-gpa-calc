@@ -1,2 +1,2 @@
-# goated-gpa-calc
-Goated GPA calculator
+# Goated GPA calculator
+Just use python3!
